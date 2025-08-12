@@ -5,7 +5,6 @@ project:
 website:
   title: "Métodos Cuantitativos"
   site-url: "https://crobelo.github.io/metodos-cuanti-uca"
-  base-url: "/metodos-cuanti-uca"
   navbar:
     left:
       - text: "Inicio"
