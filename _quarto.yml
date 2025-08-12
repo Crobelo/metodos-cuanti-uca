@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Métodos Cuantitativos"
+  navbar:
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Perfiles"
+        href: perfiles/index.qmd
+      - text: "Módulos"
+        href: modulos/01-intro/index.qmd
+      - text: "Syllabus"
+        href: syllabus.qmd
+      - text: "Recursos"
+        href: recursos/
+  search: true
+  page-navigation: true
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+lang: es

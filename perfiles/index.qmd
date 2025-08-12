@@ -1,0 +1,9 @@
+---
+title: "Perfiles de aprendizaje"
+---
+
+Seleccioná tu perfil para ver el itinerario recomendado:
+
+- [Opinión pública](opinion-publica/index.qmd)
+- [Gestión pública](gestion-publica/index.qmd)
+- [Investigación académica](investigacion-academica/index.qmd)

@@ -1,0 +1,11 @@
+---
+title: "Perfil: Opinión pública"
+---
+
+Itinerario sugerido:
+
+1. [Módulo 01 – Introducción](../../modulos/01-intro/index.qmd)
+2. [Módulo 02 – Entorno R/Python](../../modulos/02-r-python/index.qmd)
+3. [Módulo 03 – Visualización](../../modulos/03-visualizacion/index.qmd)
+4. Muestreo, cuestionarios y ponderación (próx.)
+5. Modelos de regresión y post-estratificación (próx.)
