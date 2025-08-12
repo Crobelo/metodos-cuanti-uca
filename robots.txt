@@ -1,1 +1,1 @@
-Sitemap: https://Crobelo.github.io/metodos-cuanti-uca/sitemap.xml
+Sitemap: https://crobelo.github.io/metodos-cuanti-uca/sitemap.xml
