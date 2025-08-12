@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Métodos Cuantitativos",
+    "section": "",
+    "text": "test2 Bienvenidos/as al sitio del curso. Este espacio reúne documentos, videos, proyectos y código en un formato modular. Podés seguir la ruta común del curso o elegir una de las tres trayectorias (“perfiles”):\n\nOpinión pública: encuestas, muestreo, cuestionarios, ponderación.\nGestión pública: evaluación de políticas, indicadores, tableros.\nInvestigación académica: diseño de investigación, panel/dyads, reproducibilidad.\n\n\nSugerencia: empezá por Módulo 01 – Introducción y luego bajá por tu perfil."
+  },
+  {
+    "objectID": "perfiles/index.html",
+    "href": "perfiles/index.html",
+    "title": "Perfiles de aprendizaje",
+    "section": "",
+    "text": "Seleccioná tu perfil para ver el itinerario recomendado:\n\nOpinión pública\nGestión pública\nInvestigación académica"
+  },
+  {
+    "objectID": "perfiles/opinion-publica/index.html",
+    "href": "perfiles/opinion-publica/index.html",
+    "title": "Perfil: Opinión pública",
+    "section": "",
+    "text": "Itinerario sugerido:\n\nMódulo 01 – Introducción\nMódulo 02 – Entorno R/Python\nMódulo 03 – Visualización\nMuestreo, cuestionarios y ponderación (próx.)\nModelos de regresión y post-estratificación (próx.)"
+  }
+]
